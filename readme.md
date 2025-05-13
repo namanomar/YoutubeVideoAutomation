@@ -36,6 +36,14 @@ Install all required packages:
 pip install -r requirements.txt
 ```
 
+## API intregration
+
+Create a config.py file and add api:
+```
+YOUTUBE_API_KEY = 
+GEMINI_API_KEY = 
+```
+
 ## To run application
 
 ```
